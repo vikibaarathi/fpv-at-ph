@@ -1,9 +1,11 @@
-## FPV AT PH
-### A simple guideline for FPV pilots
+# FPV AT PH
+## A simple guideline for FPV pilots
 
 ### Introduction
+If you arrived here, someone probably told you about 
+### Location / Gates 
 
-### Location Rules 
+### Crowd Control
 
 ### Before Flying Rules
 
