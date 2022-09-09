@@ -1,5 +1,5 @@
 # FPV @ PH
-## A simple guideline for FPV quadcopter / dronepilots
+## A simple guideline for FPV quadcopter / drone pilots
 
 ### Introduction
 If you arrived here, someone probably told you about 
@@ -19,11 +19,14 @@ If you arrived here, someone probably told you about
 - If you cant fix it, pack the gates, remove broken pieces and store them at the side neatly
 
 ### Trash management
+- Trash bags are available in the nearby silver car.  
 - Please collect all the trash especially broken prop in the area and throw them in the blue cans accross the road
 - Do not leave trash bags by the road. 
-- Trash bags are available in the nearby silver car. 
 
-### Crowd Control
+### Crowd and Noise Control
+- Be sensible and logical. Not too loud music and not too much noise until it disturbes. Self judge the situation. Residents are probably trying to have a quite weekend at home
+- Do not block the road by any means. Residents use the road to drop off recyclable items. 
+- Number of people around? For now let's say 20 is too huge of a crowd. Re-schedule or re-time your flight to avoid attention
 
 ### Before Flying Rules
 
