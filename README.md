@@ -17,16 +17,16 @@ If you have arrived at this page, someone probably shared with you the location 
 ### Location / Gates 
 - Fly only within the big field area. 
 - Do not fly in the playground facing the residentials 
-- Dont go to close to the apartments on the right
+- Dont go too close to the apartments on the right
 - If you are first to arrive, open up the gates and tie them neatly
-- If you are last to leave, pull back all the gates
+- If you are the last to leave, pull back all the gates
 - If you crash into a gate, try to fix it. 
 - If you cant fix it, pack the gates, remove broken pieces and store them at the side neatly.
 - If you do try to fix using tape or new fabric, choose neutral colors such as white or light yellow / green as to not become an eye sore to the residents facing the field everyday. 
 
 ### Trash management
 - Trash bags are available in the nearby silver car.  
-- Please collect all the trash especially broken prop in the area and throw them in the blue cans accross the road
+- Please collect all the trash especially broken props in the area and throw them in the blue cans accross the road
 - Do not leave trash bags by the road. 
 
 ### Crowd (20 pax) and Noise Control
@@ -37,7 +37,8 @@ If you have arrived at this page, someone probably shared with you the location 
 ### Before Flying Rules
 - Make sure no other pilots are in the air when you plug in, even if on different channel or technology.
 - Other than whoop style quads, no matter the size, must take off beyong the hill (Safety PVC).
-- Check channels with others before flying
+- Check channels with others before flying.
+- Notify all pilots that you are plugging in to ensure safety of other crafts , and provide a buffer window to respond if interference is noticed from others flying.
 
 ### Flight Rules
 - Maximum of 4 aircraft in the air at one time. 
