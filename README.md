@@ -45,6 +45,7 @@ If you have arrived at this page, someone probably shared with you the location 
 - Dont fly above/beyond the trees for non whoop quads. 
 - Be mindful of flight times as to allow everyone to have fun as well. 
 - Nobody stands beyond the safety line (PVC) when aircrafts in the air. Stop flights if pilots or members of public step in.
+- Call out "Man on field", when someone walks the track during a flight
 
 ### Post Flight Rules
 - Land beyond the hill (Safety PVC). 
