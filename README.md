@@ -3,7 +3,7 @@
 ## A simple guideline for FPV quadcopter / drone pilots at PH
 
 ### Introduction
-If you arrived at this page, someone probably shared with you the location of the PH FPV Racing track. The original pilots who set up the track would fly there occasionally over weekends with just a handful of pilots, but now as the crowd has grown, this page would suggest some basic guidelines that could help keep things organized. While we would love to fly FPV at our own will and style, this page aims to promote some safety meassures for the residents nearby and pilots alike. Lets try to aim to do the following:
+If you have arrived at this page, someone probably shared with you the location of the PH FPV Racing track. The original pilots who set up the track would fly there occasionally over weekends with just a handful of pilots, but now as the crowd has grown, this page would suggest some basic guidelines that could help keep things organized. While we would love to fly FPV at our own will and style, this page aims to promote some safety meassures for the residents nearby and pilots alike. Lets try to aim to do the following:
 
 1. Watch everyone's safety around
 2. Not be the source of disturbance to residents.
