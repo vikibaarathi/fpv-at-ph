@@ -25,7 +25,7 @@ If you have arrived at this page, someone probably shared with you the location 
 - If you do try to fix using tape or new fabric, choose neutral colors such as white or light yellow / green as to not become an eye sore to the residents facing the field everyday. 
 
 ### Trash management
-- Trash bags are available in the nearby silver car.  
+- Bring your own trash bags to collect your trash and throw it in the blue cans across the road, if it does not fit, bring it back with you for disposal.  
 - Please collect all the trash especially broken props in the area and throw them in the blue cans accross the road
 - Do not leave trash bags by the road. 
 
@@ -38,7 +38,7 @@ If you have arrived at this page, someone probably shared with you the location 
 - Make sure no other pilots are in the air when you plug in, even if on different channel or technology.
 - Other than whoop style quads, no matter the size, must take off beyong the hill (Safety PVC).
 - Check channels with others before flying.
-- Notify all pilots that you are plugging in to ensure safety of other crafts , and provide a buffer window to respond if interference is noticed from others flying.
+- Notify all pilots that you are plugging in to ensure safety of other crafts , and provide a buffer window to respond if interference is noticed from others flying. Mention loudly your Band and Channel number before plugging in, ensure that all pilots has acknowledged you.
 
 ### Flight Rules
 - Maximum of 4 aircraft in the air at one time. 
